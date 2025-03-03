@@ -1,5 +1,5 @@
-from Bibliotecas import pandinha as pd
-from Bibliotecas import cor
+from Bibliotecas_Clima import pandinha as pd
+from Bibliotecas_Clima import cor
 
 # Quebra linhas
 ql1 = cor.Fore.CYAN + "." * 48 + cor.Style.RESET_ALL
